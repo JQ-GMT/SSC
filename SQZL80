@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://172.20.1.93:80/gmt/appDownload/ios</string>
+            <string>http://fssc.izuche.com/gmt/appDownload/ios</string>
           </dict>
           <dict>
             <key>kind</key>
