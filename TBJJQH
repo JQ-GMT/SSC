@@ -25,13 +25,13 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.jiuqi.gmt.test</string>
+          <string>com.jiuqi.gmc.mfo.iphone.enterprise</string>
           <key>bundle-version</key>
           <string>1</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string>天保基建部门环境</string>
+          <string>天保基建</string>
         </dict>
       </dict>
     </array>
