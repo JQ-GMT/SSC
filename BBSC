@@ -25,7 +25,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.jiuqi.gmt.test</string>
+          <string>com.jiuqi.gmc.fssc</string>
           <key>bundle-version</key>
           <string>1</string>
           <key>kind</key>
